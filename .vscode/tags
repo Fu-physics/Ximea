@@ -1,0 +1,344 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+App	../UI_w_module.py	/^class App(QMainWindow):$/;"	kind:class	line:40
+App	../UI_ximea.py	/^class App(QMainWindow):$/;"	kind:class	line:34
+App	../test.py	/^class App(QMainWindow):$/;"	kind:class	line:34
+Cmose_para_set	../UI_ximea.py	/^    def Cmose_para_set(self):$/;"	kind:member	line:259
+Cmose_para_set	../test.py	/^    def Cmose_para_set(self):$/;"	kind:member	line:261
+Figure	../UI_w_module.py	/^from matplotlib.figure import Figure$/;"	kind:namespace	line:19
+Figure	../UI_ximea.py	/^from matplotlib.figure import Figure$/;"	kind:namespace	line:20
+Figure	../test.py	/^from matplotlib.figure import Figure$/;"	kind:namespace	line:20
+FigureCanvas	../NI_USB.py	/^from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas$/;"	kind:namespace	line:7
+FigureCanvas	../UI_figure_anim_imshow.py	/^from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas$/;"	kind:namespace	line:8
+FigureCanvas	../UI_figure_anim_plot.py	/^from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas$/;"	kind:namespace	line:7
+FigureCanvas	../UI_w_module.py	/^from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas$/;"	kind:namespace	line:20
+FigureCanvas	../UI_ximea.py	/^from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas$/;"	kind:namespace	line:21
+FigureCanvas	../dy_plot.py	/^from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas$/;"	kind:namespace	line:7
+FigureCanvas	../test.py	/^from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas$/;"	kind:namespace	line:21
+G	../test_2.py	/^G = 1.5 * np.exp(-4 * X * X)$/;"	kind:variable	line:20
+MyTableWidget	../UI_w_module.py	/^class MyTableWidget(QWidget):        $/;"	kind:class	line:57
+MyTableWidget	../UI_ximea.py	/^class MyTableWidget(QWidget):        $/;"	kind:class	line:51
+MyTableWidget	../test.py	/^class MyTableWidget(QWidget):        $/;"	kind:class	line:51
+NI_AI	../NI_USB.py	/^class NI_AI():$/;"	kind:class	line:17
+NI_USB	../UI_w_module.py	/^import NI_USB$/;"	kind:namespace	line:33
+NI_USB.py	../NI_USB.py	1;"	kind:file	line:1
+NI_data_gen	../UI_w_module.py	/^    def NI_data_gen(self):$/;"	kind:member	line:190
+NI_data_gen	../UI_ximea.py	/^    def NI_data_gen(self):$/;"	kind:member	line:251
+NI_data_gen	../test.py	/^    def NI_data_gen(self):$/;"	kind:member	line:241
+NavigationToolbar	../NI_USB.py	/^from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT as NavigationToolbar$/;"	kind:namespace	line:8
+NavigationToolbar	../UI_figure_anim_imshow.py	/^from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT as NavigationToolbar$/;"	kind:namespace	line:9
+NavigationToolbar	../UI_figure_anim_plot.py	/^from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT as NavigationToolbar$/;"	kind:namespace	line:8
+NavigationToolbar	../UI_w_module.py	/^from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT as NavigationToolbar$/;"	kind:namespace	line:21
+NavigationToolbar	../UI_ximea.py	/^from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT as NavigationToolbar$/;"	kind:namespace	line:22
+NavigationToolbar	../dy_plot.py	/^from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT as NavigationToolbar$/;"	kind:namespace	line:8
+NavigationToolbar	../test.py	/^from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT as NavigationToolbar$/;"	kind:namespace	line:22
+QAction	../UI_w_module.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QAction	../UI_ximea.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QAction	../test.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QApplication	../UI_w_module.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication$/;"	kind:namespace	line:8
+QApplication	../UI_ximea.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication, QSpinBox$/;"	kind:namespace	line:8
+QApplication	../test.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication, QSpinBox, QLabel$/;"	kind:namespace	line:8
+QDialog	../UI_ximea.py	/^from PyQt5.QtWidgets import  QGroupBox, QDialog,QGridLayout$/;"	kind:namespace	line:10
+QDialog	../test.py	/^from PyQt5.QtWidgets import  QGroupBox, QDialog,QGridLayout$/;"	kind:namespace	line:10
+QGridLayout	../UI_ximea.py	/^from PyQt5.QtWidgets import  QGroupBox, QDialog,QGridLayout$/;"	kind:namespace	line:10
+QGridLayout	../test.py	/^from PyQt5.QtWidgets import  QGroupBox, QDialog,QGridLayout$/;"	kind:namespace	line:10
+QGroupBox	../UI_ximea.py	/^from PyQt5.QtWidgets import  QGroupBox, QDialog,QGridLayout$/;"	kind:namespace	line:10
+QGroupBox	../test.py	/^from PyQt5.QtWidgets import  QGroupBox, QDialog,QGridLayout$/;"	kind:namespace	line:10
+QHBoxLayout	../UI_w_module.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QHBoxLayout	../UI_ximea.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QHBoxLayout	../test.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QIcon	../UI_w_module.py	/^from PyQt5.QtGui import QIcon$/;"	kind:namespace	line:10
+QIcon	../UI_ximea.py	/^from PyQt5.QtGui import QIcon$/;"	kind:namespace	line:11
+QIcon	../test.py	/^from PyQt5.QtGui import QIcon$/;"	kind:namespace	line:11
+QInputDialog	../UI_w_module.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication$/;"	kind:namespace	line:8
+QInputDialog	../UI_ximea.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication, QSpinBox$/;"	kind:namespace	line:8
+QInputDialog	../test.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication, QSpinBox, QLabel$/;"	kind:namespace	line:8
+QLabel	../test.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication, QSpinBox, QLabel$/;"	kind:namespace	line:8
+QMainWindow	../UI_w_module.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication$/;"	kind:namespace	line:8
+QMainWindow	../UI_ximea.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication, QSpinBox$/;"	kind:namespace	line:8
+QMainWindow	../test.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication, QSpinBox, QLabel$/;"	kind:namespace	line:8
+QPushButton	../UI_w_module.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication$/;"	kind:namespace	line:8
+QPushButton	../UI_ximea.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication, QSpinBox$/;"	kind:namespace	line:8
+QPushButton	../test.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication, QSpinBox, QLabel$/;"	kind:namespace	line:8
+QSpinBox	../UI_ximea.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication, QSpinBox$/;"	kind:namespace	line:8
+QSpinBox	../test.py	/^from PyQt5.QtWidgets import QInputDialog, QPushButton, QMainWindow, QApplication, QSpinBox, QLabel$/;"	kind:namespace	line:8
+QTabWidget	../UI_w_module.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QTabWidget	../UI_ximea.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QTabWidget	../test.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QVBoxLayout	../UI_w_module.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QVBoxLayout	../UI_ximea.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QVBoxLayout	../test.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QWidget	../UI_w_module.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QWidget	../UI_ximea.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QWidget	../test.py	/^from PyQt5.QtWidgets import QWidget, QAction, QTabWidget,QVBoxLayout, QHBoxLayout$/;"	kind:namespace	line:9
+QtCore	../UI_w_module.py	/^from PyQt5 import QtCore, QtWidgets$/;"	kind:namespace	line:7
+QtCore	../UI_ximea.py	/^from PyQt5 import QtCore, QtWidgets$/;"	kind:namespace	line:7
+QtCore	../test.py	/^from PyQt5 import QtCore, QtWidgets$/;"	kind:namespace	line:7
+QtWidgets	../UI_w_module.py	/^from PyQt5 import QtCore, QtWidgets$/;"	kind:namespace	line:7
+QtWidgets	../UI_ximea.py	/^from PyQt5 import QtCore, QtWidgets$/;"	kind:namespace	line:7
+QtWidgets	../test.py	/^from PyQt5 import QtCore, QtWidgets$/;"	kind:namespace	line:7
+Read_Data	../NI_USB.py	/^    def Read_Data(self, channle="Dev1\/ai15", sample_num = 100):$/;"	kind:member	line:28
+Rigol_app	../UI_w_module.py	/^from Rigol import Rigol_app$/;"	kind:namespace	line:32
+Rigol_data_gen	../UI_w_module.py	/^    def Rigol_data_gen(self):$/;"	kind:member	line:222
+Rigol_data_gen	../UI_ximea.py	/^    def Rigol_data_gen(self):$/;"	kind:member	line:299
+Rigol_data_gen	../test.py	/^    def Rigol_data_gen(self):$/;"	kind:member	line:349
+Scope_data	../UI_w_module.py	/^import Scope_data$/;"	kind:namespace	line:28
+UI_Animation_plot	../UI_figure_anim_imshow.py	/^    def UI_Animation_plot(self):$/;"	kind:member	line:75
+UI_Animation_plot	../UI_figure_anim_plot.py	/^    def UI_Animation_plot(self):$/;"	kind:member	line:68
+UI_figure	../UI_figure_anim_imshow.py	/^class UI_figure:  $/;"	kind:class	line:19
+UI_figure	../UI_figure_anim_plot.py	/^class UI_figure:  $/;"	kind:class	line:17
+UI_figure	../UI_w_module.py	/^from UI_figure_anim_plot import UI_figure$/;"	kind:namespace	line:30
+UI_figure	../UI_ximea.py	/^from UI_figure_anim_imshow import UI_figure$/;"	kind:namespace	line:27
+UI_figure	../dy_plot.py	/^class UI_figure:    $/;"	kind:class	line:16
+UI_figure	../test.py	/^from UI_figure_anim_imshow import UI_figure$/;"	kind:namespace	line:27
+UI_figure_anim_imshow.py	../UI_figure_anim_imshow.py	1;"	kind:file	line:1
+UI_figure_anim_plot.py	../UI_figure_anim_plot.py	1;"	kind:file	line:1
+UI_plot	../dy_plot.py	/^        print("-----   Successful import UI_plot !  -------")$/;"	kind:namespace	line:91
+UI_plot	../dy_plot.py	/^    def UI_plot(self):$/;"	kind:member	line:25
+UI_print	../dy_plot.py	/^    def UI_print(self):$/;"	kind:member	line:90
+UI_w_module.py	../UI_w_module.py	1;"	kind:file	line:1
+UI_ximea.py	../UI_ximea.py	1;"	kind:file	line:1
+X	../test_2.py	/^X = np.linspace(-1, 1, data.shape[-1])$/;"	kind:variable	line:19
+Ximea_app	../Ximea_cmos.py	/^class Ximea_app():$/;"	kind:class	line:9
+Ximea_cmos	../UI_figure_anim_imshow.py	/^import Ximea_cmos$/;"	kind:namespace	line:16
+Ximea_cmos	../UI_ximea.py	/^import Ximea_cmos$/;"	kind:namespace	line:26
+Ximea_cmos	../test.py	/^import Ximea_cmos$/;"	kind:namespace	line:26
+Ximea_cmos.py	../Ximea_cmos.py	1;"	kind:file	line:1
+__init__	../NI_USB.py	/^    def __init__(self):$/;"	kind:member	line:19
+__init__	../UI_figure_anim_imshow.py	/^    def __init__(self, figure, data_gen):$/;"	kind:member	line:50
+__init__	../UI_figure_anim_plot.py	/^    def __init__(self, figure, data_gen, method = "add", plot_axis = [0,0,0,0]):$/;"	kind:member	line:48
+__init__	../UI_w_module.py	/^    def __init__(self):$/;"	kind:member	line:42
+__init__	../UI_w_module.py	/^    def __init__(self, parent):   $/;"	kind:member	line:59
+__init__	../UI_ximea.py	/^    def __init__(self):$/;"	kind:member	line:36
+__init__	../UI_ximea.py	/^    def __init__(self, parent):   $/;"	kind:member	line:53
+__init__	../Ximea_cmos.py	/^    def __init__(self):$/;"	kind:member	line:10
+__init__	../dy_plot.py	/^    def __init__(self, figure):$/;"	kind:member	line:17
+__init__	../test.py	/^    def __init__(self):$/;"	kind:member	line:36
+__init__	../test.py	/^    def __init__(self, parent):   $/;"	kind:member	line:53
+ani	../Ximea_cmos.py	/^    ani = animation.FuncAnimation(fig, updatefig, image_data, interval=500, blit=True)$/;"	kind:variable	line:80
+anim	../test_2.py	/^anim = animation.FuncAnimation(fig, update, interval=10)$/;"	kind:variable	line:64
+animation	../NI_USB.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:11
+animation	../UI_figure_anim_imshow.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:12
+animation	../UI_figure_anim_plot.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:11
+animation	../UI_w_module.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:23
+animation	../UI_ximea.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:24
+animation	../Ximea_cmos.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:3
+animation	../dy_img.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:3
+animation	../dy_plot.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:11
+animation	../test.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:24
+animation	../test_2.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:9
+app	../NI_USB.py	/^    app = NI_AI()$/;"	kind:variable	line:63
+app	../UI_figure_anim_imshow.py	/^    app = UI_figure(fig, img_data)$/;"	kind:variable	line:141
+app	../UI_figure_anim_plot.py	/^    app = UI_figure(figure, data, method, plot_axis)$/;"	kind:variable	line:173
+app	../UI_w_module.py	/^    app = QApplication(sys.argv)$/;"	kind:variable	line:253
+app	../UI_ximea.py	/^    app = QApplication(sys.argv)$/;"	kind:variable	line:313
+app	../dy_plot.py	/^    app = UI_figure(figure)$/;"	kind:variable	line:95
+app	../test.py	/^    app = QApplication(sys.argv)$/;"	kind:variable	line:363
+arange	../NI_USB.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:2
+arange	../UI_figure_anim_plot.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:2
+arange	../UI_w_module.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:14
+arange	../UI_ximea.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:15
+arange	../dy_plot.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:2
+arange	../test.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:15
+array_data_gen	../UI_figure_anim_plot.py	/^    def array_data_gen(t = 0):$/;"	kind:function	line:155
+array_data_gen	../UI_w_module.py	/^    def array_data_gen(self, t = 0):$/;"	kind:member	line:213
+array_data_gen	../UI_ximea.py	/^    def array_data_gen(self, t = 0):$/;"	kind:member	line:290
+array_data_gen	../test.py	/^    def array_data_gen(self, t = 0):$/;"	kind:member	line:340
+ax	../UI_figure_anim_imshow.py	/^    ax = fig.add_subplot(111)$/;"	kind:variable	line:104
+ax	../Ximea_cmos.py	/^    ax = fig.add_subplot(111)$/;"	kind:variable	line:63
+ax	../dy_img.py	/^ax = fig.add_subplot(111)$/;"	kind:variable	line:34
+ax	../test_2.py	/^ax = plt.subplot(111, frameon=False)$/;"	kind:variable	line:15
+ax	../time_dynamic_plot.py	/^ax = fig.add_subplot(111)$/;"	kind:variable	line:12
+cam	../dy_img.py	/^cam = xiapi.Camera()$/;"	kind:variable	line:12
+close	../UI_figure_anim_imshow.py	/^    def close(self):$/;"	kind:member	line:94
+connect_Scope	../UI_w_module.py	/^    def connect_Scope(self):$/;"	kind:member	line:164
+connect_Scope	../UI_ximea.py	/^    def connect_Scope(self):$/;"	kind:member	line:210
+connect_Scope	../test.py	/^    def connect_Scope(self):$/;"	kind:member	line:168
+connect_Ximea_cmos	../UI_ximea.py	/^    def connect_Ximea_cmos(self):$/;"	kind:member	line:255
+connect_Ximea_cmos	../test.py	/^    def connect_Ximea_cmos(self):$/;"	kind:member	line:245
+createGridLayout	../test.py	/^    def createGridLayout(self, layout_name):$/;"	kind:member	line:171
+data	../NI_USB.py	/^    data = app.Read_Data(sample_num = 500)$/;"	kind:variable	line:66
+data	../UI_figure_anim_plot.py	/^    data = array_data_gen()$/;"	kind:variable	line:169
+data	../test_2.py	/^data = np.random.uniform(0, 1, (64, 75))$/;"	kind:variable	line:18
+data_gen	../UI_figure_anim_imshow.py	/^    def data_gen(cnt = 0):$/;"	kind:function	line:112
+data_gen	../dy_plot.py	/^    def data_gen(self, t=0):$/;"	kind:member	line:62
+data_np	../dy_img.py	/^data_np = img.get_image_data_numpy()$/;"	kind:variable	line:40
+dy_img.py	../dy_img.py	1;"	kind:file	line:1
+dy_plot	../UI_w_module.py	/^import dy_plot$/;"	kind:namespace	line:27
+dy_plot.py	../dy_plot.py	1;"	kind:file	line:1
+ex	../UI_w_module.py	/^    ex = App()$/;"	kind:variable	line:254
+ex	../UI_ximea.py	/^    ex = App()$/;"	kind:variable	line:314
+ex	../test.py	/^    ex = App()$/;"	kind:variable	line:364
+f	../UI_figure_anim_imshow.py	/^    def f(x, y):$/;"	kind:function	line:106
+fig	../UI_figure_anim_imshow.py	/^    fig = plt.figure()$/;"	kind:variable	line:103
+fig	../Ximea_cmos.py	/^    fig = plt.figure()$/;"	kind:variable	line:62
+fig	../dy_img.py	/^fig = plt.figure()$/;"	kind:variable	line:33
+fig	../test_2.py	/^fig = plt.figure(figsize=(8, 8), facecolor='black')$/;"	kind:variable	line:12
+fig	../time_dynamic_plot.py	/^fig = plt.figure()$/;"	kind:variable	line:11
+figure	../UI_figure_anim_plot.py	/^    figure = plt.figure()$/;"	kind:variable	line:145
+figure	../dy_plot.py	/^    figure = plt.figure()$/;"	kind:variable	line:94
+getInteger	../UI_w_module.py	/^    def getInteger(self):$/;"	kind:member	line:174
+get_Scope_fig	../UI_w_module.py	/^    def get_Scope_fig(self):$/;"	kind:member	line:154
+get_Scope_fig	../UI_ximea.py	/^    def get_Scope_fig(self):$/;"	kind:member	line:205
+get_Scope_fig	../test.py	/^    def get_Scope_fig(self):$/;"	kind:member	line:163
+get_data	../Ximea_cmos.py	/^    def get_data(self, imag_size):$/;"	kind:member	line:29
+i	../Ximea_cmos.py	/^    i  = 1$/;"	kind:variable	line:72
+im	../Ximea_cmos.py	/^    im = ax.imshow(ini_data, cmap=plt.get_cmap('jet'))$/;"	kind:variable	line:70
+im	../dy_img.py	/^im = ax.imshow(data_np, cmap=plt.get_cmap('jet'))$/;"	kind:variable	line:44
+image_data	../UI_figure_anim_imshow.py	/^    def image_data(cnt = 0):$/;"	kind:function	line:131
+image_data	../UI_ximea.py	/^    def image_data(self):$/;"	kind:member	line:263
+image_data	../Ximea_cmos.py	/^    def image_data():$/;"	kind:member	line:65
+image_size	../test.py	/^    def image_size(self):$/;"	kind:member	line:270
+img	../dy_img.py	/^img = xiapi.Image()$/;"	kind:variable	line:26
+img_data	../UI_figure_anim_imshow.py	/^    img_data = image_data()$/;"	kind:variable	line:139
+ini_data	../Ximea_cmos.py	/^    ini_data = np.zeros((1088,2048))$/;"	kind:variable	line:69
+initalUI_tab_1	../UI_w_module.py	/^    def initalUI_tab_1(self):$/;"	kind:member	line:85
+initalUI_tab_1	../UI_ximea.py	/^    def initalUI_tab_1(self):$/;"	kind:member	line:79
+initalUI_tab_1	../test.py	/^    def initalUI_tab_1(self):$/;"	kind:member	line:79
+initalUI_tab_2	../UI_w_module.py	/^    def initalUI_tab_2(self):$/;"	kind:member	line:112
+initalUI_tab_2	../UI_ximea.py	/^    def initalUI_tab_2(self):$/;"	kind:member	line:105
+initalUI_tab_2	../test.py	/^    def initalUI_tab_2(self):$/;"	kind:member	line:105
+lines	../test_2.py	/^lines = []$/;"	kind:variable	line:23
+lw	../test_2.py	/^    lw = 1.5 - i \/ 100.0$/;"	kind:variable	line:28
+matplotlib	../NI_USB.py	/^import matplotlib$/;"	kind:namespace	line:4
+matplotlib	../NI_USB.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:11
+matplotlib	../NI_USB.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:9
+matplotlib	../UI_figure_anim_imshow.py	/^import matplotlib$/;"	kind:namespace	line:5
+matplotlib	../UI_figure_anim_imshow.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:12
+matplotlib	../UI_figure_anim_imshow.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:10
+matplotlib	../UI_figure_anim_plot.py	/^import matplotlib$/;"	kind:namespace	line:4
+matplotlib	../UI_figure_anim_plot.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:11
+matplotlib	../UI_figure_anim_plot.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:9
+matplotlib	../UI_w_module.py	/^import matplotlib$/;"	kind:namespace	line:16
+matplotlib	../UI_w_module.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:23
+matplotlib	../UI_w_module.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:22
+matplotlib	../UI_ximea.py	/^import matplotlib$/;"	kind:namespace	line:17
+matplotlib	../UI_ximea.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:24
+matplotlib	../UI_ximea.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:23
+matplotlib	../Ximea_cmos.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:3
+matplotlib	../Ximea_cmos.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
+matplotlib	../dy_img.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:3
+matplotlib	../dy_img.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
+matplotlib	../dy_plot.py	/^import matplotlib$/;"	kind:namespace	line:4
+matplotlib	../dy_plot.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:11
+matplotlib	../dy_plot.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:9
+matplotlib	../test.py	/^import matplotlib$/;"	kind:namespace	line:17
+matplotlib	../test.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:24
+matplotlib	../test.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:23
+matplotlib	../test_2.py	/^import matplotlib.animation as animation$/;"	kind:namespace	line:9
+matplotlib	../test_2.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:8
+matplotlib	../time_dynamic_plot.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:1
+method	../UI_figure_anim_plot.py	/^    method = "add"$/;"	kind:variable	line:164
+nidaqmx	../NI_USB.py	/^import nidaqmx$/;"	kind:namespace	line:13
+nidaqmx	../UI_figure_anim_plot.py	/^import nidaqmx$/;"	kind:namespace	line:13
+nidaqmx	../UI_w_module.py	/^import nidaqmx$/;"	kind:namespace	line:25
+nidaqmx	../dy_plot.py	/^import nidaqmx$/;"	kind:namespace	line:13
+now	../dy_img.py	/^now = time.clock()$/;"	kind:variable	line:37
+np	../NI_USB.py	/^import numpy as np$/;"	kind:namespace	line:1
+np	../UI_figure_anim_imshow.py	/^import numpy as np$/;"	kind:namespace	line:1
+np	../UI_figure_anim_plot.py	/^import numpy as np$/;"	kind:namespace	line:1
+np	../UI_w_module.py	/^import numpy as np$/;"	kind:namespace	line:13
+np	../UI_ximea.py	/^import numpy as np$/;"	kind:namespace	line:14
+np	../Ximea_cmos.py	/^import numpy as np$/;"	kind:namespace	line:1
+np	../dy_img.py	/^import numpy as np$/;"	kind:namespace	line:1
+np	../dy_plot.py	/^import numpy as np$/;"	kind:namespace	line:1
+np	../test.py	/^import numpy as np$/;"	kind:namespace	line:14
+np	../test_2.py	/^import numpy as np$/;"	kind:namespace	line:7
+np	../time_dynamic_plot.py	/^import numpy as np$/;"	kind:namespace	line:2
+onClick	../UI_figure_anim_imshow.py	/^    def onClick(self,event):$/;"	kind:member	line:71
+os	../UI_w_module.py	/^import os$/;"	kind:namespace	line:3
+os	../UI_ximea.py	/^import os$/;"	kind:namespace	line:3
+os	../test.py	/^import os$/;"	kind:namespace	line:3
+pi	../NI_USB.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:2
+pi	../UI_figure_anim_plot.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:2
+pi	../UI_w_module.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:14
+pi	../UI_ximea.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:15
+pi	../dy_plot.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:2
+pi	../test.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:15
+plot_L	../UI_w_module.py	/^    def plot_L(self):$/;"	kind:member	line:198
+plot_L	../UI_ximea.py	/^    def plot_L(self):$/;"	kind:member	line:272
+plot_L	../test.py	/^    def plot_L(self):$/;"	kind:member	line:284
+plot_R	../UI_w_module.py	/^    def plot_R(self):$/;"	kind:member	line:232
+plot_R	../UI_ximea.py	/^    def plot_R(self):$/;"	kind:member	line:302
+plot_R	../test.py	/^    def plot_R(self):$/;"	kind:member	line:352
+plot_axis	../UI_figure_anim_plot.py	/^    plot_axis =[0,50,-1,1]$/;"	kind:variable	line:166
+plot_method	../UI_figure_anim_plot.py	/^    def plot_method(self, data):$/;"	kind:member	line:91
+plot_tab1	../UI_w_module.py	/^    def plot_tab1(self):$/;"	kind:member	line:242
+plot_tab1	../UI_ximea.py	/^    def plot_tab1(self):$/;"	kind:member	line:306
+plot_tab1	../test.py	/^    def plot_tab1(self):$/;"	kind:member	line:356
+plt	../NI_USB.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:9
+plt	../UI_figure_anim_imshow.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:10
+plt	../UI_figure_anim_plot.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:9
+plt	../UI_w_module.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:22
+plt	../UI_ximea.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:23
+plt	../Ximea_cmos.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
+plt	../dy_img.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
+plt	../dy_plot.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:9
+plt	../test.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:23
+plt	../test_2.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:8
+plt	../time_dynamic_plot.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:1
+preparing_plot_L	../test.py	/^    def preparing_plot_L(self):$/;"	kind:member	line:302
+progname	../UI_w_module.py	/^progname = os.path.basename(sys.argv[0])$/;"	kind:variable	line:36
+progname	../UI_ximea.py	/^progname = os.path.basename(sys.argv[0])$/;"	kind:variable	line:30
+progname	../test.py	/^progname = os.path.basename(sys.argv[0])$/;"	kind:variable	line:30
+progversion	../UI_w_module.py	/^progversion = "0.1"$/;"	kind:variable	line:37
+progversion	../UI_ximea.py	/^progversion = "0.1"$/;"	kind:variable	line:31
+progversion	../test.py	/^progversion = "0.1"$/;"	kind:variable	line:31
+pyqtSlot	../UI_w_module.py	/^from PyQt5.QtCore import pyqtSlot$/;"	kind:namespace	line:11
+pyqtSlot	../UI_ximea.py	/^from PyQt5.QtCore import pyqtSlot$/;"	kind:namespace	line:12
+pyqtSlot	../test.py	/^from PyQt5.QtCore import pyqtSlot$/;"	kind:namespace	line:12
+random	../UI_w_module.py	/^import random$/;"	kind:namespace	line:4
+random	../UI_ximea.py	/^import random$/;"	kind:namespace	line:4
+random	../test.py	/^import random$/;"	kind:namespace	line:4
+refresh_plot_L	../UI_ximea.py	/^    def refresh_plot_L(self):$/;"	kind:member	line:283
+set_expose_time	../UI_ximea.py	/^    def set_expose_time(self):$/;"	kind:member	line:215
+set_x_offset	../UI_ximea.py	/^    def set_x_offset(self):$/;"	kind:member	line:227
+set_x_pixs	../UI_ximea.py	/^    def set_x_pixs(self):$/;"	kind:member	line:222
+set_y_offset	../UI_ximea.py	/^    def set_y_offset(self):$/;"	kind:member	line:237
+set_y_pixs	../UI_ximea.py	/^    def set_y_pixs(self):$/;"	kind:member	line:232
+sin	../NI_USB.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:2
+sin	../UI_figure_anim_plot.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:2
+sin	../UI_w_module.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:14
+sin	../UI_ximea.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:15
+sin	../dy_plot.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:2
+sin	../test.py	/^from numpy import arange, sin, pi$/;"	kind:namespace	line:15
+single_data_gen	../UI_figure_anim_plot.py	/^    def single_data_gen(t=0):$/;"	kind:function	line:147
+single_data_gen	../UI_w_module.py	/^    def single_data_gen(self, t=0):$/;"	kind:member	line:182
+single_data_gen	../UI_ximea.py	/^    def single_data_gen(self, t=0):$/;"	kind:member	line:243
+single_data_gen	../test.py	/^    def single_data_gen(self, t=0):$/;"	kind:member	line:238
+sys	../UI_w_module.py	/^import sys$/;"	kind:namespace	line:2
+sys	../UI_ximea.py	/^import sys$/;"	kind:namespace	line:2
+sys	../test.py	/^import sys$/;"	kind:namespace	line:2
+test.py	../test.py	1;"	kind:file	line:1
+test_2.py	../test_2.py	1;"	kind:file	line:1
+time	../NI_USB.py	/^import time   $/;"	kind:namespace	line:14
+time	../UI_figure_anim_imshow.py	/^import time$/;"	kind:namespace	line:14
+time	../UI_figure_anim_plot.py	/^import time$/;"	kind:namespace	line:14
+time	../UI_w_module.py	/^import time$/;"	kind:namespace	line:5
+time	../UI_ximea.py	/^import time$/;"	kind:namespace	line:5
+time	../Ximea_cmos.py	/^import time$/;"	kind:namespace	line:7
+time	../dy_img.py	/^import time$/;"	kind:namespace	line:7
+time	../dy_plot.py	/^import time$/;"	kind:namespace	line:14
+time	../test.py	/^import time$/;"	kind:namespace	line:5
+time	../time_dynamic_plot.py	/^import time$/;"	kind:namespace	line:3
+time_dynamic_plot.py	../time_dynamic_plot.py	1;"	kind:file	line:1
+unicode_literals	../UI_w_module.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:1
+unicode_literals	../UI_ximea.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:1
+unicode_literals	../test.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:1
+update	../dy_plot.py	/^    def update(self, data):$/;"	kind:member	line:43
+update	../test_2.py	/^def update(*args):$/;"	kind:function	line:48
+updatefig	../UI_figure_anim_imshow.py	/^    def updatefig(self, data):$/;"	kind:member	line:89
+updatefig	../Ximea_cmos.py	/^    def updatefig(data):$/;"	kind:member	line:73
+x	../UI_figure_anim_imshow.py	/^    x = np.linspace(0, 2 * np.pi, 120)$/;"	kind:variable	line:109
+x	../time_dynamic_plot.py	/^x = np.linspace(0, 6*np.pi, 100)$/;"	kind:variable	line:5
+xiapi	../Ximea_cmos.py	/^from ximea import xiapi$/;"	kind:namespace	line:5
+xiapi	../dy_img.py	/^from ximea import xiapi$/;"	kind:namespace	line:5
+ximea_cam	../UI_figure_anim_imshow.py	/^    ximea_cam = Ximea_cmos.Ximea_app()$/;"	kind:variable	line:125
+ximea_cam	../Ximea_cmos.py	/^    ximea_cam = Ximea_app()$/;"	kind:variable	line:58
+xscale	../test_2.py	/^    xscale = 1 - i \/ 200.$/;"	kind:variable	line:26
+y	../UI_figure_anim_imshow.py	/^    y = np.linspace(0, 2 * np.pi, 100).reshape(-1, 1)$/;"	kind:variable	line:110
+y	../time_dynamic_plot.py	/^y = np.sin(x)$/;"	kind:variable	line:6

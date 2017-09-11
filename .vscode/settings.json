@@ -1,0 +1,29 @@
+// Place your settings in this file to overwrite default and user settings.
+{//"python.pythonPath": "C:/ProgramData/Anaconda3/python",
+    "python.pythonPath": "/Users/fuli/anaconda/bin/python",
+"workbench.colorTheme": "Solarized Light",
+    "latexCompile.compiler": "xelatex",
+    "latex-preview.command": "xelatex",
+    "editor.lineNumbers": "on",
+    "python.linting.pylintArgs": [
+        "--errors-only"
+    ],
+    "workbench.iconTheme": "vs-minimal",
+    "material-icon-theme.folders.icons": "specific",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#808080",
+        "editor.inactiveSelectionBackground":"#00ccf0"
+    },
+    "git.ignoreLimitWarning": true,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./UI_python",
+        "-p",
+        "test*.py"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.promptToConfigure": false
+}
