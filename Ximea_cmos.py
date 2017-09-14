@@ -7,14 +7,14 @@ from ximea import xiapi
 import time
 
 class Ximea_app():
-    def __init__(self):
+    def __init__(self, ID_str ='16770651'):
         #create instance for first connected camera
         #start communication
         #to open specific device, use:
         self.cam = xiapi.Camera()
         print('Opening first camera...')
         #self.cam.open_device()
-        self.cam.open_device_by_SN('16770651')
+        self.cam.open_device_by_SN(ID_str)
         print("Camera Opened \n")
         self.cam.set_exposure(10000)
 
